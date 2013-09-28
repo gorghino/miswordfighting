@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animations>
+	<animation name="pirate2_dx" canLoop="true" >
+	    <framerect top="1" left="1" bottom="288" right="352" delayNextFrame="5" />
+	    <framerect top="1" left="352" bottom="288" right="704" delayNextFrame="5" /> 
+		<framerect top="1" left="704" bottom="288" right="1056" delayNextFrame="5" /> 
+		<framerect top="1" left="1056" bottom="288" right="1408" delayNextFrame="5" />
+		<framerect top="1" left="1408" bottom="288" right="1760" delayNextFrame="5" />
+		<framerect top="1" left="1760" bottom="288" right="2112" delayNextFrame="5" /> 
+		<framerect top="1" left="2112" bottom="288" right="2464" delayNextFrame="5" />
+		<framerect top="1" left="1" bottom="288" right="352" delayNextFrame="5" />
+
+	</animation>
+	<animation name="pirate2_sx" canLoop="true" >
+	    <framerect top="288" left="1" bottom="576" right="352" delayNextFrame="5" />
+	    <framerect top="288" left="352" bottom="576" right="704" delayNextFrame="5" /> 
+		<framerect top="288" left="704" bottom="576" right="1056" delayNextFrame="5" /> 
+		<framerect top="288" left="1056" bottom="576" right="1408" delayNextFrame="5" />
+		<framerect top="288" left="1408" bottom="576" right="1760" delayNextFrame="5" />
+		<framerect top="288" left="1760" bottom="576" right="2112" delayNextFrame="5" /> 
+		<framerect top="288" left="2112" bottom="576" right="2464" delayNextFrame="5" />
+		<framerect top="288" left="1" bottom="576" right="352" delayNextFrame="5" /> 
+
+	</animation>
+	
+</animations>

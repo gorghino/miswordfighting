@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animations>
+	<animation name="fuocherello" canLoop="true" >
+	    <framerect top="1" left="1" bottom="128" right="32" delayNextFrame="5" />
+	    <framerect top="1" left="32" bottom="128" right="64" delayNextFrame="5" /> 
+		<framerect top="1" left="64" bottom="128" right="96" delayNextFrame="5" /> 
+		<framerect top="1" left="96" bottom="128" right="128" delayNextFrame="5" />
+		<framerect top="1" left="128" bottom="128" right="164" delayNextFrame="5" /> 
+	</animation>
+</animations>

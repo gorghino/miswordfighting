@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animations>
+	<animation name="pirata-estrae" canLoop="false" >
+	    <framerect top="1" left="1" bottom="136" right="214" delayNextFrame="5" /> 
+	    
+	  	<framerect top="1" left="1" bottom="136" right="214" delayNextFrame="5" /> 
+		<framerect top="1" left="215" bottom="136" right="426" delayNextFrame="5" /> 
+		<framerect top="1" left="427" bottom="136" right="639" delayNextFrame="5" />
+		<framerect top="1" left="640" bottom="136" right="852" delayNextFrame="5" /> 
+		<framerect top="1" left="853" bottom="136" right="1065" delayNextFrame="5" />
+		<framerect top="1" left="1065" bottom="136" right="1278" delayNextFrame="5" />	
+		<framerect top="1" left="1065" bottom="136" right="1278" delayNextFrame="5" />	
+	</animation>
+	<animation name="pirata-parla" canLoop="true" >
+	    <framerect top="137" left="1" bottom="272" right="214" delayNextFrame="5" /> 
+	    
+	    <framerect top="137" left="1" bottom="272" right="214" delayNextFrame="5" /> 
+		<framerect top="137" left="215" bottom="272" right="426" delayNextFrame="5" /> 
+		<framerect top="137" left="427" bottom="272" right="639" delayNextFrame="5" />
+		<framerect top="137" left="640" bottom="272" right="852" delayNextFrame="5" />
+		<framerect top="137" left="1" bottom="272" right="214" delayNextFrame="0" /> 	
+	</animation>
+	
+	<animation name="carla-estrae" canLoop="false" >
+	    <framerect top="1" left="1" bottom="136" right="214" delayNextFrame="5" /> 
+	    
+	  	<framerect top="1" left="1" bottom="136" right="214" delayNextFrame="5" /> 
+		<framerect top="1" left="215" bottom="136" right="426" delayNextFrame="5" /> 
+		<framerect top="1" left="427" bottom="136" right="639" delayNextFrame="5" />
+		<framerect top="1" left="640" bottom="136" right="852" delayNextFrame="5" /> 
+		<framerect top="1" left="853" bottom="136" right="1065" delayNextFrame="5" />
+		<framerect top="1" left="853" bottom="136" right="1065" delayNextFrame="5" />
+	</animation>
+		
+</animations>

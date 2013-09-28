@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animations>
+	<animation name="perde" canLoop="false" >
+	    <framerect top="1" left="1" bottom="144" right="256" delayNextFrame="5" /> 
+	    
+	    <framerect top="1" left="1" bottom="144" right="256" delayNextFrame="5" /> 
+		<framerect top="1" left="256" bottom="144" right="512" delayNextFrame="5" /> 
+		<framerect top="1" left="512" bottom="144" right="768" delayNextFrame="5" />
+		<framerect top="1" left="768" bottom="144" right="1024" delayNextFrame="5" /> 
+		<framerect top="1" left="1024" bottom="144" right="1280" delayNextFrame="5" /> 
+		<framerect top="1" left="1280" bottom="144" right="1536" delayNextFrame="5" />
+		<framerect top="1" left="1536" bottom="144" right="1790" delayNextFrame="5" />
+		
+	</animation>
+	<animation name="perde_gira" canLoop="false" >
+	    <framerect top="144" left="1" bottom="286" right="256" delayNextFrame="5" /> 
+	    
+	    <framerect top="144" left="1" bottom="286" right="256" delayNextFrame="5" /> 
+		<framerect top="144" left="256" bottom="286" right="512" delayNextFrame="5" /> 
+		<framerect top="144" left="512" bottom="286" right="768" delayNextFrame="5" />
+		<framerect top="144" left="768" bottom="286" right="1024" delayNextFrame="5" /> 
+		<framerect top="144" left="1024" bottom="286" right="1280" delayNextFrame="5" /> 
+		<framerect top="144" left="1280" bottom="286" right="1536" delayNextFrame="5" />
+		
+	</animation>
+	<animation name="perde_parla" canLoop="false" >
+	    <framerect top="286" left="1" bottom="430" right="256" delayNextFrame="5" /> 
+	    
+	    <framerect top="286" left="1" bottom="430" right="256" delayNextFrame="5" /> 
+		<framerect top="286" left="256" bottom="430" right="512" delayNextFrame="5" /> 
+		<framerect top="286" left="512" bottom="430" right="768" delayNextFrame="5" />
+		<framerect top="286" left="768" bottom="430" right="1024" delayNextFrame="5" /> 
+		<framerect top="286" left="1024" bottom="430" right="1280" delayNextFrame="5" />
+		<framerect top="286" left="1280" bottom="430" right="1536" delayNextFrame="5" /> 
+
+	</animation>
+</animations>

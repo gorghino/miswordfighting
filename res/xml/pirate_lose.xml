@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animations>
+	<animation name="pirata_perde" canLoop="false" >
+	    <framerect top="1" left="1" bottom="136" right="214" delayNextFrame="5" /> 
+	    
+	    <framerect top="1" left="1" bottom="136" right="214" delayNextFrame="5" /> 
+		<framerect top="1" left="214" bottom="136" right="428" delayNextFrame="5" /> 
+		<framerect top="1" left="428" bottom="136" right="642" delayNextFrame="5" />
+		<framerect top="1" left="642" bottom="136" right="856" delayNextFrame="5" /> 
+		<framerect top="1" left="856" bottom="136" right="1070" delayNextFrame="5" /> 
+		<framerect top="1" left="1070" bottom="136" right="1284" delayNextFrame="5" />
+		<framerect top="1" left="1284" bottom="136" right="1497" delayNextFrame="5" />
+		
+		<framerect top="1" left="1284" bottom="136" right="1497" delayNextFrame="5" />
+
+	</animation>
+	<animation name="pirata_perde_parla" canLoop="true" >
+	    <framerect top="137" left="1" bottom="272" right="214" delayNextFrame="5" /> 
+	    
+	    <framerect top="137" left="1" bottom="272" right="214" delayNextFrame="5" /> 
+		<framerect top="137" left="214" bottom="272" right="428" delayNextFrame="5" /> 
+		<framerect top="137" left="428" bottom="272" right="642" delayNextFrame="5" />
+		<framerect top="137" left="642" bottom="272" right="856" delayNextFrame="5" />
+
+	</animation>
+		
+</animations>

@@ -1,0 +1,25 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="horizontal" >
+
+    <com.gorgo.pirates.MainGamePanel
+        android:id="@+id/surface"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center" >
+    </com.gorgo.pirates.MainGamePanel>
+
+    <ListView
+        android:id="@+id/mylist"
+        android:layout_width="match_parent"
+        android:layout_height="110dp"
+        android:layout_gravity="center_horizontal|bottom"
+        android:background="@android:color/transparent"
+        android:cacheColorHint="@android:color/transparent"
+        android:divider="#00000000"
+        android:drawSelectorOnTop="true" >
+    </ListView>
+
+</FrameLayout>

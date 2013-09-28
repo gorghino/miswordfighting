@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animations>
+	<animation name="fuocone" canLoop="true" >
+	    <framerect top="1" left="1" bottom="256" right="192" delayNextFrame="5" />
+	    <framerect top="1" left="192" bottom="256" right="384" delayNextFrame="5" /> 
+		<framerect top="1" left="384" bottom="256" right="576" delayNextFrame="5" /> 
+		<framerect top="1" left="576" bottom="256" right="768" delayNextFrame="5" />
+		<framerect top="1" left="768" bottom="256" right="960" delayNextFrame="5" /> 
+	</animation>
+</animations>

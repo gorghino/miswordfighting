@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animations>
+	<animation name="guybrush_fuoco" canLoop="true" >
+	    <framerect top="1" left="1" bottom="256" right="320" delayNextFrame="5" />
+	    <framerect top="1" left="320" bottom="256" right="640" delayNextFrame="5" /> 
+		<framerect top="1" left="640" bottom="256" right="960" delayNextFrame="5" /> 
+		<framerect top="1" left="960" bottom="256" right="1280" delayNextFrame="5" />
+		<framerect top="1" left="1280" bottom="256" right="1600" delayNextFrame="5" />
+		<framerect top="1" left="1600" bottom="256" right="1920" delayNextFrame="5" />
+		<framerect top="1" left="1" bottom="256" right="320" delayNextFrame="5" />
+	</animation>
+</animations>

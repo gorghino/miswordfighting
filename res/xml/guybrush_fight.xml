@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animations>
+	<animation name="inizio-duello" canLoop="false" >
+	    <framerect top="1" left="1" bottom="144" right="256" delayNextFrame="5" /> 
+	    
+	    <framerect top="1" left="1" bottom="144" right="256" delayNextFrame="5" /> 
+		<framerect top="1" left="256" bottom="144" right="512" delayNextFrame="5" /> 
+		<framerect top="1" left="512" bottom="144" right="768" delayNextFrame="5" />
+		<framerect top="1" left="768" bottom="144" right="1024" delayNextFrame="5" /> 
+		<framerect top="1" left="1024" bottom="144" right="1280" delayNextFrame="5" /> 
+		<framerect top="1" left="1280" bottom="144" right="1536" delayNextFrame="5" />
+		<framerect top="720" left="1" bottom="864" right="256" delayNextFrame="5" /> 
+	</animation>
+	<animation name="stoccata_offensiva_alta" canLoop="false" >
+	    <framerect top="144" left="1" bottom="286" right="256" delayNextFrame="5" /> 
+	    
+	    <framerect top="144" left="1" bottom="286" right="256" delayNextFrame="5" /> 
+		<framerect top="144" left="256" bottom="286" right="512" delayNextFrame="5" /> 
+		<framerect top="144" left="512" bottom="286" right="768" delayNextFrame="5" />
+		<framerect top="144" left="768" bottom="286" right="1024" delayNextFrame="5" /> 
+		<framerect top="144" left="1024" bottom="286" right="1280" delayNextFrame="5" /> 
+		<framerect top="144" left="1280" bottom="286" right="1536" delayNextFrame="5" />
+		<framerect top="144" left="1536" bottom="286" right="1790" delayNextFrame="5" />
+	</animation>
+	<animation name="stoccata_offensiva_bassa" canLoop="false" >
+	    <framerect top="286" left="1" bottom="430" right="256" delayNextFrame="5" /> 
+	    
+	    <framerect top="286" left="1" bottom="430" right="256" delayNextFrame="5" /> 
+		<framerect top="286" left="256" bottom="430" right="512" delayNextFrame="5" /> 
+		<framerect top="286" left="512" bottom="430" right="768" delayNextFrame="5" />
+		<framerect top="286" left="768" bottom="430" right="1024" delayNextFrame="5" /> 
+		<framerect top="286" left="1024" bottom="430" right="1280" delayNextFrame="5" /> 
+		<framerect top="286" left="1280" bottom="430" right="1536" delayNextFrame="5" />
+		<framerect top="286" left="1536" bottom="430" right="1790" delayNextFrame="5" />
+	</animation>
+	<animation name="stoccata_bassa" canLoop="false" >
+	    <framerect top="430" left="1" bottom="574" right="256" delayNextFrame="5" /> 
+	    
+	    <framerect top="430" left="1" bottom="574" right="256" delayNextFrame="5" /> 
+		<framerect top="430" left="256" bottom="574" right="512" delayNextFrame="5" /> 
+		<framerect top="430" left="512" bottom="574" right="768" delayNextFrame="5" />
+		<framerect top="430" left="768" bottom="574" right="1024" delayNextFrame="5" /> 
+		<framerect top="430" left="1024" bottom="574" right="1280" delayNextFrame="5" /> 
+		<framerect top="430" left="1280" bottom="574" right="1536" delayNextFrame="5" />
+		<framerect top="430" left="1536" bottom="574" right="1790" delayNextFrame="5" />
+	</animation>
+	<animation name="difesa" canLoop="false" >
+	    <framerect top="574" left="1" bottom="720" right="256" delayNextFrame="5" /> 
+	    
+	    <framerect top="574" left="1" bottom="720" right="256" delayNextFrame="5" /> 
+		<framerect top="574" left="256" bottom="720" right="512" delayNextFrame="5" /> 
+		<framerect top="574" left="512" bottom="720" right="768" delayNextFrame="5" />
+		<framerect top="574" left="768" bottom="720" right="1024" delayNextFrame="5" /> 
+		<framerect top="574" left="1024" bottom="720" right="1280" delayNextFrame="5" /> 
+		<framerect top="574" left="1280" bottom="720" right="1536" delayNextFrame="5" />
+		<framerect top="574" left="1536" bottom="720" right="1790" delayNextFrame="5" />
+		<framerect top="864" left="1" bottom="1008" right="256" delayNextFrame="5" />    
+	</animation>
+	<animation name="parla_stoccata" canLoop="false" >
+	    <framerect top="720" left="1" bottom="864" right="256" delayNextFrame="5" /> 
+	    
+	    <framerect top="720" left="1" bottom="864" right="256" delayNextFrame="5" /> 
+		<framerect top="720" left="256" bottom="864" right="512" delayNextFrame="5" /> 
+		<framerect top="720" left="512" bottom="864" right="768" delayNextFrame="5" />
+		<framerect top="720" left="768" bottom="864" right="1024" delayNextFrame="5" /> 
+		<framerect top="720" left="1024" bottom="864" right="1280" delayNextFrame="5" /> 
+		<framerect top="720" left="1280" bottom="864" right="1536" delayNextFrame="5" />
+	</animation>
+	    
+	    
+	<animation name="parla_difesa" canLoop="false" >
+	    <framerect top="864" left="1" bottom="1008" right="256" delayNextFrame="5" /> 
+	    
+	    <framerect top="864" left="1" bottom="1008" right="256" delayNextFrame="5" /> 
+		<framerect top="864" left="256" bottom="1008" right="512" delayNextFrame="5" /> 
+		<framerect top="864" left="512" bottom="1008" right="768" delayNextFrame="5" />
+		<framerect top="864" left="768" bottom="1008" right="1024" delayNextFrame="5" /> 
+		<framerect top="864" left="1024" bottom="1008" right="1280" delayNextFrame="5" /> 
+		<framerect top="864" left="1280" bottom="1008" right="1536" delayNextFrame="5" />
+	</animation>
+	<animation name="parla_attacco" canLoop="false" >
+	    <framerect top="1008" left="1" bottom="1150" right="256" delayNextFrame="5" /> 
+	    
+	    <framerect top="1008" left="1" bottom="1150" right="256" delayNextFrame="5" /> 
+		<framerect top="1008" left="256" bottom="1150" right="512" delayNextFrame="5" /> 
+		<framerect top="1008" left="512" bottom="1150" right="768" delayNextFrame="5" />
+		<framerect top="1008" left="768" bottom="1150" right="1024" delayNextFrame="5" /> 
+		<framerect top="1008" left="1024" bottom="1150" right="1280" delayNextFrame="5" /> 
+		<framerect top="1008" left="1280" bottom="1150" right="1536" delayNextFrame="5" />
+	</animation>	
+</animations>

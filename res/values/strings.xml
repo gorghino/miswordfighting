@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Monkey Island Swordfight</string>
+
+    <!-- Discorsi Turns -->
+    <string name="intro_scabb">Nel profondo dei Caraibi, l\'isola di Scabb</string>
+    <string name="pirata_incredulo">Davvero credi di battermi con un insulto del genere?!</string>
+    <string name="pirata_vinto">Ahahah ho vinto!</string>
+    <string name="carla_vince">Spero tu abbia imparato la lezione.</string>
+    <string name="guybrush_scappa">Ehi! Si è fatta \'na certa..addio!</string>
+    <string name="ready_carla">Ehi te la cavi damerino! Hai mai pensato di sfidare il Maestro di Spada?</string>
+    <string name="pirata_perde">Ok per stavolta hai vinto tu</string>
+
+    <!-- Discorso Intro TEST -->
+    <string-array name="testRoditore">
+        <item>Quanto legno potrebbe rodere un roditore, se un roditore potesse rodere il legno?</item>
+        <item>Un roditore non potrebbe rodere nessun legno, visto che un roditore non può rodere il legno.</item>
+        <item>Ma se un roditore potesse rodere e rodesse un po\' di legno, quanto legno roderebbe un roditore?</item>
+        <item>Anche se un roditore potesse rodere il legno, e anche se un roditore rodesse il legno, dovrebbe un roditore rodere il legno?</item>
+        <item>Un roditore dovrebbe rodere se un roditore potesse rodere il legno, e se un roditore volesse rodere.</item>
+    </string-array>
+
+    <!-- Discorso Intro -->
+    <string-array name="pirate1_intro">
+        <item>Credo di sapere come si debba essere sentito.</item>
+        <item>Non hai qualche nuova storia?</item>
+        <item>Uhm...</item>
+        <item>Err...</item>
+        <item>"Sto tremando, sto tremando."</item>
+        <item>"Molto appropriato. Combatti come una mucca!"</item>
+    </string-array>
+    <string-array name="pirate2_intro">
+        <item>Se ascolto questa storia ancora una volta, mi metto a piangere io.</item>
+        <item>Ehm...</item>
+        <item>Meglio questa che quella di LeChuck...</item>
+        <item>Uhm...</item>
+        <item>"Io sono la gomma, tu la colla."</item>
+        <item>"Molto appropriato. Combatti come una mucca!"</item>
+    </string-array>
+    <string-array name="guybrush_intro">
+        <item>Così irrompo nella chiesa e dico \"Ora me la paghi, sacco di patate!\"</item>
+        <item>...e così LeChuck si mette a piangere, \"Guybrush! Abbi pietà!\"</item>
+        <item>\"Non ho mai meritato la mano della tua Elaine\"</item>
+        <item>Certamente!</item>
+        <item>Vi ho mai raccontato di come ho sconfitto...</item>
+        <item>...il Maestro della Spada dell\'isola di Melèe?</item>
+        <item>Il Capitano Smirk mi insegnò il vero segreto dell\'arte della spada!</item>
+        <item>Mi disse:</item>
+        <item>\"Non è solo quel che fai, ma quel che dici!"</item>
+        <item>Insomma, i veri esperti...</item>
+        <item>...sanno quando tagliare il loro avversario con un insulto...</item>
+        <item>...che lo coglie alla sprovvista.</item>
+        <item>L\'arguzia deve essere più tagliente della spada!</item>
+        <item>Immaginate questo:</item>
+        <item>Stiamo combattendo infuriati...</item>
+        <item>C\'è una pausa nel combattimento ed io dico..</item>
+        <item>"Combatti come un contadino."</item>
+        <item>Come rispondereste?</item>
+        <item>No!</item>
+        <item>Avreste dovuto rispondere qualcosa come...</item>
+        <item>"Molto appropriato. Combatti come una mucca!"</item>
+        <item>Capite?</item>
+        <item>E\' un\'arguzia così tagliente che sconfigge l\'avversario!</item>
+        <item>Proviamo ancora, se dico..</item>
+        <item>"Presto sentirai la mia spada come uno spiedino!"</item>
+        <item>Cosa rispondereste?</item>
+        <item>No! No! No!</item>
+        <item>Quella era la risposta dell\'altro insulto!</item>
+        <item>La risposta giusta è:</item>
+        <item>"Prima dovresti smetterla di agitarla come un piumino."</item>
+        <item>Capite?</item>
+        <item>...tagliente!</item>
+        <item>Dicevo...</item>
+        <item>..ho dovuto sfidare molti pirati...</item>
+        <item>...per imparare gli insulti necessari...</item>
+        <item>...a padroneggiare questa tecnica!</item>
+        <item>Ehi! Dove siete spariti?</item>
+        <item>Tsk!</item>
+        <item>Quei ragazzi non saprebbero raccontare una bella storia neanche se l\'avessero pagata!</item>
+        <item>Pazienza..</item>
+        <item>...</item>
+        <item>Quindi?</item>
+        <item>...</item>
+        <item>Neanche due titoli di coda?</item>
+        <item>...</item>
+        <item>Eeee....ORA!</item>
+        <item>...</item>
+        <item>Mai una volta che riesca a prevedere l\'uscita dei tit..</item>
+    </string-array>
+
+    <!-- GUYBRUSH E PIRATA -->
+    <string-array name="pirate_intro">
+        <item>Fermo! Dove credi di andare?</item>
+        <item>Cosa vuoi razza di zotico scorbutico?</item>
+        <item>Fermare un pirata può essere pericoloso per la salute.</item>
+        <item>Togliti dai piedi o mi faccio strada con la spada!</item>
+        <item>Ehi, sei il fattorino che sto aspettando da ore?</item>
+    </string-array>
+    <string-array name="guybrush_start_pirate">
+        <item>Mi chiamo Guybrush Threepwood. Preparati a morire!</item>
+        <item>Cosa sei tu?</item>
+        <item>Attento, dietro di te! Una scimmia a 3 teste!</item>
+        <item>Scusa me ne vado.</item>
+    </string-array>
+    <string-array name="pirate_start">
+        <item>Morire? Non farmi ridere che la cicatrice fa male..</item>
+        <item>Faccia brutta, puzzo e dico Aaaaarrr. Cosa sono secondo te?!</item>
+        <item>Ultimamente so che ha una spettacolo tutto suo a DisneyLand&#8482;, bel tentativo però..</item>
+        <item>Bravo, smamma novellino</item>
+    </string-array>
+
+    <!-- GUYBRUSH E CARLA -->
+    <string-array name="guybrush_start_carla">
+        <item>Mi chiamo Guybrush Threepwood. Sono venuto per ucciderti.</item>
+        <item>Chiedo scusa, stavo pedinando un vecchio negoziante e sono capitato qui.</item>
+        <item>Salve, commercio in giacche di pelle.</item>
+    </string-array>
+    <string-array name="carla_start_0">
+        <item>Niente supera l\'onestà.</item>
+        <item>Ne dubito..ogni volta che passa quello zotico lascia un tal fetore che difficilmente si può ignorare</item>
+    </string-array>
+    <string-array name="carla_start_1">
+        <item>Ne hai una, taglia 48?</item>
+        <item>Certo che no!</item>
+        <item>Perché non sei un vero rappresentante di giacche!</item>
+    </string-array>
+    <string-array name="guybrush_answer_carla">
+        <item>Sono tornato e questa volta sei proprio nei guai.</item>
+        <item>Proprio così, hai capito tutto..ma quanto sei furba.</item>
+    </string-array>
+    <string-array name="carla_answer">
+        <item>Dalla tua espressione sarcastica posso solo dedurre che sei stato addestrato dal Capitano Smirk.</item>
+        <item>Fammi indovinare, sei qui per la prova dei Capi dei Pirati giù al Scumm Bar&#8482;?</item>
+        <item>Speri, un giorno, di diventare fetente quanto loro eh?</item>
+        <item>Facciamola finita con questa storia.</item>
+    </string-array>
+    <string-array name="carla_lose">
+        <item>Bene..Spero che tu sia contento.</item>
+        <item>Puoi tornare a vantarti con tutti i tuoi amici di come hai battuto il Maestro della Spada.</item>
+        <item>Avrai bisogno di una prova..</item>
+        <item>Ecco, questa dovrebbe convincerli.</item>
+    </string-array>
+
+    <!-- INSULTI -->
+    <string-array name="insulti">
+        <item>Combatti come un contadino!</item>
+        <item>Adesso t’infilzerò con la mia spada come uno spiedino!</item>
+        <item>Non puoi competere con i miei poteri, povero cretino.</item>
+        <item>Nessuno mi ha mai colpito a sangue e non succederà mai!</item>
+        <item>Una volta avevo un cane più intelligente di te.</item>
+        <item>Mi fai vomitare.</item>
+        <item>Non hai ancora smesso di portare i pannolini?</item>
+        <item>Non accetterò la tua impertinenza restando seduto.</item>
+        <item>La gente cade ai miei piedi quando mi vede arrivare.</item>
+        <item>Questa è la FINE per te, topo di fogna!</item>
+        <item>Hai le maniere d’un mendicante.</item>
+        <item>Ho avuto questo sfregio in faccia in una dura battaglia!</item>
+        <item>Non ci sono parole per descrivere quanto sei disgustoso.</item>
+        <item>Ho sentito dire che sei uno spregevole codardo.</item>
+        <item>Pulirò il tuo sangue col mio fazzoletto!</item>
+        <item>Ho conosciuto scimmie più educate di te.</item>
+    </string-array>
+    
+    <string-array name="insulti_plus">
+        <item>Mamma mia quanto sei brutto!</item>
+        <item>Arrrr!</item>
+        <item>Mi arrendo, vinci tu</item>
+    </string-array>
+    
+    <string-array name="insulti_mi3">
+        <item>Ogni nemico io l\'ho sempre annientato.</item>
+        <item>Sei più repellente di una scimmia in negligee.</item>
+        <item>In tutti i caraibi per le mie grandi imprese vengo celebrato.</item>
+        <item>En garde! Touchè!</item>
+        <item>Davanti alla mia faccia devi restare impietrito.</item>
+        <item>Somigli a quel fesso di mio zio Vito.</item>
+        <item>Ti lascierò devastato, mutilato e sforacchiato.</item>
+        <item>Non potrò dormire finchè non ti avrò massacrato.</item>
+        <item>Ucciderti sarebbe un trascurabile omicidio.</item>
+        <item>Mai visto uno spadaccino più goffo di te.</item>
+        <item>Sei il mostro più orrendo mai creato.</item>
+        <item>Preferisci essere sepolto o cremato?</item>
+        <item>Non avrò pietà per te.</item>
+        <item>Un motteggio più arguto del mio non c\'è.</item>
+        <item>Ti infilzerò come un porco in un buffet.</item>
+        <item>Quando tuo padre ti ha visto deve essere rimasto basito.</item>  
+    </string-array>
+    
+    <string-array name="insultiCarla">
+        <item>Ti mungerò fino all\'ultima goccia del tuo sangue.</item>
+        <item>La mia lingua è più tagliente di qualsiasi spada.</item>
+        <item>Ho il coraggio e l\'abilità di un gran spadaccino!</item>
+        <item>NESSUNO mi vedrà combattere così male come te.</item>
+        <item>Solo una volta incontrai un tale codardo.</item>
+        <item>Se tuo fratello ti assomiglia, meglio sposare un maiale.</item>
+        <item>Spero tu abbia un battello pronto per una fuga veloce.</item>
+        <item>Sei una rottura di scatole, signore!</item>
+        <item>I miei nemici più saggi scappano via appena mi vedono!</item>
+        <item>Non vedo l\'ora che finisca questa pagliacciata</item>
+        <item>Ogni parola che mi dici è stupida.</item>
+        <item>Nel mio ultimo combattimento avevo le mani insanguinate.</item>
+        <item>Non ci sono mosse strategiche che possono aiutarti ora.</item>
+        <item>La mia spada è famosa ovunque nei Caraibi!</item>
+        <item>Il mio nome fa paura in ogni sporco angolo di quest\'isola!</item>
+        <item>Adesso capisco cosa significa la sporcizia e la stupidità.</item>
+    </string-array>
+    
+    <string-array name="insultiCarla_mi3">
+        <item>I miei assalti hanno lasciato un intero arcipelago spopolato.</item>
+        <item>Hai il sex appeal di uno shar-per.</item>
+        <item>La mia abilità con la spada è un fatto assodato.</item>
+        <item>Tua madre porta il toupèe.</item>
+        <item>Mai prima d\'ora ho incontrato un tale mollusco bollito.</item>
+        <item>Nessuno potrà salvarti quella pelle da pollo denutrito.</item>
+        <item>Non saprei dire di me cosa più ti ha terrorizzato.</item>
+        <item>Il tuo tanfo renderebbe uno spurgatore di fogne schifato.</item>
+        <item>Alla fine il tuo corpo sarà marcio e ammuffito.</item>
+        <item>Mai visto un mentecatto come te.</item>
+        <item>Il tuo aspetto lascerebbe un porco nauseato.</item>
+        <item>Ti lascio scegliere se essere sbudellato o decapitato.</item>
+        <item>Non avrò pietà di te.</item>
+        <item>Non riuscirai neanche ad avvicinarti a me.</item>
+        <item>Hai lo sguardo di un pesce in salsa rosè.</item>
+        <item>Sei la vergogna del tuo casato, je suis inorridito.</item>
+    </string-array>
+    
+    <string-array name="controInsulti">
+        <item>Molto appropriato. Combatti come una mucca</item>
+        <item>Prima dovresti smettere di agitarla come un piumino</item>
+        <item>Sarei proprio nei guai se mai tu li usassi</item>
+        <item>Riesci a correre COSÌ veloce?</item>
+        <item>Ti avrà insegnato tutto quello che sai.</item>
+        <item>Mi fai pensare che qualcuno l’abbia già fatto.</item>
+        <item>Perché, ne volevi uno?</item>
+        <item>Le tue emorroidi ti danno ancora fastidio, eh?</item>
+        <item>Ancor prima che ti sentano l\'alito?</item>
+        <item>Hai già fretta di tornare all\'ovile?</item>
+        <item>Volevo essere sicuro che tu fossi a tuo agio con me.</item>
+        <item>Spero tu abbia imparato a non mettere le dita nel naso.</item>
+        <item>Sì, ci sono, ma non le hai mai imparate.</item>
+        <item>Che peccato che nessuno abbia mai sentito parlare di TE.</item>
+        <item>Dunque hai avuto quel lavoro di custode, eh.</item>
+        <item>Sono contento che tu sia andato alla riunione di famiglia.</item>
+    </string-array>
+    
+    <string-array name="ControInsulti_plus">
+        <item>Oh yeah?</item>
+        <item>Io sono la gomma, tu la colla</item>
+        <item>Sto tremando, sto tremando</item>
+        <item>Uuh..puoi ripetere?</item>
+        <item>Mi arrendo, vinci tu</item>
+    </string-array>
+    
+    <string-array name="controInsulti_mi3">
+        <item>Con il tuo fiato sicuramente l\'avrai soffocato.</item>
+        <item>Somiglio tanto alla tua fiancèe?</item>
+        <item>Peccato che sia tutto inventato.</item>
+        <item>Oh, basta coi clichè!</item>
+        <item>Oh, dovrei fare un paragone ardito.</item>
+        <item>Tua zia troverebbe il paragone alquanto ardito.</item>
+        <item>Solo il tuo odore mi rende nauseato, agitato e infuriato.</item>
+        <item>Forse dovresti passare al decaffeinato.</item>
+        <item>Allora uccidere te sarebbe un trascurabile fungicidio.</item>
+        <item>Avresti potuto ma eri troppo impegnato nel macramè.</item>
+        <item>Un po\' come le ragazze che hai corteggiato.</item>
+        <item>Con te in giro preferirei essere affumicato.</item>
+        <item>A quanto pare non ne hai neanche per te.</item>
+        <item>Certo, chi può avere un fiato più fetente di te?</item>
+        <item>Quando avrò finito con te sarai un filetto grillè.</item>
+        <item>Il mio almeno può essere reperito.</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animations>
+  
+	<animation name="pirata-inizio-duello" canLoop="false" >
+	    <framerect top="1" left="1" bottom="136" right="214" delayNextFrame="5" /> 
+	    
+	    <framerect top="1" left="1" bottom="136" right="214" delayNextFrame="5" /> 
+		<framerect top="1" left="215" bottom="136" right="426" delayNextFrame="5" /> 
+		<framerect top="1" left="427" bottom="136" right="639" delayNextFrame="5" />
+		<framerect top="1" left="640" bottom="136" right="852" delayNextFrame="5" /> 
+		<framerect top="1" left="853" bottom="136" right="1065" delayNextFrame="5" /> 
+		<framerect top="1" left="1066" bottom="136" right="1278" delayNextFrame="5" />
+		<framerect top="1" left="1279" bottom="136" right="1491" delayNextFrame="5" />
+		<framerect top="680" left="1" bottom="816" right="214" delayNextFrame="5" />
+		
+	</animation>
+	
+	<animation name="pirata-difesa" canLoop="false" >
+	    <framerect top="137" left="1" bottom="272" right="214" delayNextFrame="5" /> 
+	    
+	    <framerect top="137" left="1" bottom="272" right="214" delayNextFrame="5" /> 
+		<framerect top="137" left="215" bottom="272" right="426" delayNextFrame="5" /> 
+		<framerect top="137" left="427" bottom="272" right="639" delayNextFrame="5" />
+		<framerect top="137" left="640" bottom="272" right="852" delayNextFrame="5" />
+		<framerect top="137" left="853" bottom="272" right="1065" delayNextFrame="5" /> 
+		<framerect top="137" left="1066" bottom="272" right="1278" delayNextFrame="5" />
+		<framerect top="137" left="1279" bottom="272" right="1491" delayNextFrame="5" />
+
+	</animation>
+	
+	<animation name="pirata-diretto" canLoop="false" >
+	     <framerect top="272" left="1" bottom="408" right="214" delayNextFrame="5" /> 
+	    
+	    <framerect top="272" left="1" bottom="408" right="214" delayNextFrame="5" /> 
+		<framerect top="272" left="215" bottom="408" right="426" delayNextFrame="5" /> 
+		<framerect top="272" left="427" bottom="408" right="639" delayNextFrame="5" />
+		<framerect top="272" left="640" bottom="408" right="852" delayNextFrame="5" />
+		<framerect top="272" left="853" bottom="408" right="1065" delayNextFrame="5" /> 
+		<framerect top="272" left="1066" bottom="408" right="1278" delayNextFrame="5" />
+		<framerect top="272" left="1279" bottom="408" right="1491" delayNextFrame="5" />
+
+	</animation>
+	
+	<animation name="pirata-stoccata" canLoop="false" >
+	     <framerect top="408" left="1" bottom="544" right="214" delayNextFrame="5" /> 
+	    
+	    <framerect top="408" left="1" bottom="544" right="214" delayNextFrame="5" /> 
+		<framerect top="408" left="215" bottom="544" right="426" delayNextFrame="5" /> 
+		<framerect top="408" left="427" bottom="544" right="639" delayNextFrame="5" />
+		<framerect top="408" left="640" bottom="544" right="852" delayNextFrame="5" />
+		<framerect top="408" left="853" bottom="544" right="1065" delayNextFrame="5" /> 
+		<framerect top="408" left="1066" bottom="544" right="1278" delayNextFrame="5" />
+		<framerect top="408" left="1279" bottom="544" right="1491" delayNextFrame="5" />
+
+	</animation>
+	
+	<animation name="pirata-stoccata-alta" canLoop="false" >
+	     <framerect top="544" left="1" bottom="680" right="214" delayNextFrame="5" /> 
+	    
+	    <framerect top="544" left="1" bottom="680" right="214" delayNextFrame="5" /> 
+		<framerect top="544" left="215" bottom="680" right="426" delayNextFrame="5" /> 
+		<framerect top="544" left="427" bottom="680" right="639" delayNextFrame="5" />
+		<framerect top="544" left="640" bottom="680" right="852" delayNextFrame="5" />
+		<framerect top="544" left="853" bottom="680" right="1065" delayNextFrame="5" /> 
+		<framerect top="544" left="1066" bottom="680" right="1278" delayNextFrame="5" />
+		<framerect top="544" left="1279" bottom="680" right="1491" delayNextFrame="5" />
+
+	</animation>
+	
+	<animation name="pirata-parla" canLoop="false" >
+	     <framerect top="680" left="1" bottom="816" right="214" delayNextFrame="5" /> 
+	    
+	    <framerect top="680" left="1" bottom="816" right="214" delayNextFrame="5" /> 
+		<framerect top="680" left="215" bottom="816" right="426" delayNextFrame="5" /> 
+		<framerect top="680" left="427" bottom="816" right="639" delayNextFrame="5" />
+		<framerect top="680" left="640" bottom="816" right="852" delayNextFrame="5" />
+		<framerect top="680" left="1" bottom="816" right="215" delayNextFrame="1" /> 
+
+	</animation>
+		
+	<animation name="pirata-parla-difesa" canLoop="false" >
+	     <framerect top="816" left="1" bottom="952" right="214" delayNextFrame="5" /> 
+	    
+	    <framerect top="816" left="1" bottom="952" right="214" delayNextFrame="5" /> 
+		<framerect top="816" left="215" bottom="952" right="426" delayNextFrame="5" /> 
+		<framerect top="816" left="427" bottom="952" right="639" delayNextFrame="5" />
+		<framerect top="816" left="640" bottom="952" right="852" delayNextFrame="5" />
+		<framerect top="816" left="1" bottom="952" right="214" delayNextFrame="1" /> 
+
+	</animation>
+	
+	<animation name="pirata-parla-attacco" canLoop="false" >
+	    <framerect top="952" left="1" bottom="1088" right="214" delayNextFrame="5" /> 
+	    
+	    <framerect top="952" left="1" bottom="1088" right="214" delayNextFrame="5" /> 
+		<framerect top="952" left="215" bottom="1088" right="426" delayNextFrame="5" /> 
+		<framerect top="952" left="427" bottom="1088" right="639" delayNextFrame="5" />
+		<framerect top="952" left="640" bottom="1088" right="852" delayNextFrame="5" />
+		<framerect top="952" left="1" bottom="1088" right="214" delayNextFrame="1" />
+
+	</animation>
+	
+</animations>
